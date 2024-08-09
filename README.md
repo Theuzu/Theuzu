@@ -1,6 +1,8 @@
 ## Oi! Eu sou o Matheus 
 🔭 Estou cursando Sistemas Para Internet na Wyden
-
+👨‍🎓 Sou Técnico em Administração
+✏ UI/UX Designer
+📱 Front-End Developer
 <!--
 **Theuzu/Theuzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
