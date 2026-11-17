@@ -1,4 +1,4 @@
-## About Me
+<img width="373" height="352" alt="image" src="https://github.com/user-attachments/assets/25a13d91-2a05-4790-abc6-706301f37209" />## About Me
 
 I'm Matheus, a software developer based in Brazil.
 I develop complete applications from backend to frontend.
@@ -12,13 +12,13 @@ I enjoy solving practical problems, improving performance, and building systems 
 Python • Java • JavaScript • TypeScript
 
 **Frameworks**
-Next.js • React Native • Spring Boot • Flask • FastAPI
+Next.js • React Native • Angular • Spring Boot • Flask • FastAPI
 
 **Databases**
 MySQL • PostgreSQL
 
 **Cloud & DevOps**
-AWS • Docker • Firebase • Supabase
+AWS • Docker • Firebase • Supabase • GCP • Azure
 
 ---
 
