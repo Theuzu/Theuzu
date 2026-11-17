@@ -1,4 +1,4 @@
-<img width="373" height="352" alt="image" src="https://github.com/user-attachments/assets/25a13d91-2a05-4790-abc6-706301f37209" />## About Me
+## About Me
 
 I'm Matheus, a software developer based in Brazil.
 I develop complete applications from backend to frontend.
